@@ -6,8 +6,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-/*
- * /*
+ /*
     * *Получить исходную json строку из файла, используя FileReader или Scanner
         Дана json строка вида:
         String json = "[{\"фамилия\":\"Иванов\",\"оценка\":\"5\",\"предмет\":\"Математика\"}," +
